@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
+<html lang="en">
     <head>
-    
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    
-        <!-- Add a title here -->
-        <title>Jobss Analysis Charts</title>
-    
+        <title>State Analysis Charts</title>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+
         <!-- Boostrap Stylesheet -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -23,17 +21,15 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
             integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
             crossorigin="anonymous"></script>
-        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     
         <!-- Our own CSS stylesheet -->
         <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}" media="screen">
-    
     </head>
     
     <body class="bg-light">
         <!-- Start of navbar -->
         <nav class="navbar navbar-expand-lg navbar-light bg-white py-0">
-            <a class="navbar-brand custom-bg-color text-white p-2" href="http://127.0.0.1:5003/">Dashboard</a>
+            <a class="navbar-brand custom-bg-color text-white p-2" href="http://127.0.0.1:5006/">Dashboard</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -59,22 +55,16 @@
             <hr>
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="text-center">Median Salary Comparison for Different Data Job Roles</h3>
+                    <h3 class="text-center">Median Salary by Job Role</h3>
                     <div id="plot"></div>
-                    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"></script>
-                    <!-- JS  -->
-                    <script type="text/javascript" src="{{url_for('static', filename='js/logic2.js')}}"></script>
+                    <script src="static/js/logic2.js"></script>
                 </div>
                 <div class="col-md-12">
-                    <h3 class="text-center">Top Tools for Data Jobs</h3>
-                    <div id="plot2"></div>
-                    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.min.js"></script>
+                    <h3 class="text-center">Frequency of Data Analysis Tools in Job Descriptions</h3>
+                    <div id="bar"></div>
+                    <script src="static/js/logic3.js"></script>
                 </div>
-                <br>
             </div>
         </div>
-         <!-- JS  -->
-        <script type="text/javascript" src="{{url_for('static', filename='js/logic2.js')}}"></script>
     </body>
-
 </html>
