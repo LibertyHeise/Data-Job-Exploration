@@ -71,11 +71,6 @@ html {
     font-size: 14px;
 }
 
-.table tbody tr:hover td,
-.table tbody tr:hover th {
-    color: white !important;
-    background-color: #b81717 !important;
-}
 
 
 h4.card-header.text-info {

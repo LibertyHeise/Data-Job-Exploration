@@ -78,5 +78,5 @@ def state_charts():
     return render_template("states_charts.html")
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5006)
+    app.run(debug=True, port=5007)
 

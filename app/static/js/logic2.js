@@ -1,6 +1,6 @@
-let job = ["Data Analyst", "Full Stack Developer", "Python Developer", "Data Scientist"]
+let job = ["Data Scientist", "Python Developer", "Full Stack Developer", "Data Analyst"]
 
-let salary = ["$65370", "$75093", "$76316", "$90669"]
+let salary = [90669, 76316, 75093, 65370]
 
 
 // Create the bar chart
@@ -14,7 +14,7 @@ let layout = {
     xaxis: { title: 'Job Role' },
     yaxis: { title: 'Median Salary' }
 };
-let trace1 = trace
+let trace1 = [trace]
 
 Plotly.newPlot("plot", trace1, layout);
 

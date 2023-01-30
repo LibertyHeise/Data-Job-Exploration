@@ -15,7 +15,7 @@ let layout1 = {
     yaxis: { title: 'Count' }
 };
 
-let trace3 = trace2
+let trace3 = [trace2]
 
 Plotly.newPlot("bar", trace3, layout1);
 
