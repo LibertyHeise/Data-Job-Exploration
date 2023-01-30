@@ -1,0 +1,39 @@
+{
+    "status": "OK",
+    "request_id": "edb03df1-5bd8-44d8-ab54-bcb8644a5a46",
+    "data": [
+        {
+            "location": "Maryland",
+            "job_title": "junior full stack developer",
+            "publisher_name": "Talent.com",
+            "publisher_link": "https://www.talent.com/salary?job=junior+full+stack+developer&location=maryland",
+            "min_salary": 69600,
+            "max_salary": 150500,
+            "median_salary": 95700,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "Virginia",
+            "job_title": "Entry Level Full Stack Developer",
+            "publisher_name": "ZipRecruiter",
+            "publisher_link": "https://www.ziprecruiter.com/Salaries/Entry-Level-Full-Stack-Developer-Salary--in-Virginia",
+            "min_salary": 47225,
+            "max_salary": 77897,
+            "median_salary": 60536,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "Pennsylvania",
+            "job_title": "Entry Level Developer",
+            "publisher_name": "Salary.com",
+            "publisher_link": "https://www.salary.com/research/salary/recruiting/entry-level-developer-salary/pa",
+            "min_salary": 55540,
+            "max_salary": 85818,
+            "median_salary": 69044,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        }
+    ]
+}

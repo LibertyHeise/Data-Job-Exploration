@@ -1,0 +1,39 @@
+{
+    "status": "OK",
+    "request_id": "ab8c5593-76cd-4e34-adb4-233b00448fe0",
+    "data": [
+        {
+            "location": "United States",
+            "job_title": "Entry Level Data Analyst",
+            "publisher_name": "Indeed",
+            "publisher_link": "https://www.indeed.com/cmp/Asta-Crs/salaries/Entry-Level-Data-Analyst",
+            "min_salary": 26000,
+            "max_salary": 78000,
+            "median_salary": 51977.824,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "United States",
+            "job_title": "Entry Level Data Analyst",
+            "publisher_name": "Glassdoor",
+            "publisher_link": "https://www.glassdoor.com/Salary/Oracle-Entry-Level-Data-Analyst-Salaries-E1737_D_KO7,31.htm",
+            "min_salary": 61562,
+            "max_salary": 97643,
+            "median_salary": 77532,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "United States",
+            "job_title": "Entry Data Analyst",
+            "publisher_name": "Salary.com",
+            "publisher_link": "https://www.salary.com/research/salary/alternate/entry-data-analyst-salary",
+            "min_salary": 53228,
+            "max_salary": 82267,
+            "median_salary": 66601,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        }
+    ]
+}

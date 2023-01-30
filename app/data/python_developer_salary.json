@@ -1,0 +1,39 @@
+{
+    "status": "OK",
+    "request_id": "2c73684f-f362-4b8d-97b8-c1da159ca97e",
+    "data": [
+        {
+            "location": "United States",
+            "job_title": "Entry Level Python Developer",
+            "publisher_name": "Salary.com",
+            "publisher_link": "https://www.salary.com/research/salary/posting/entry-level-python-developer-salary",
+            "min_salary": 70919,
+            "max_salary": 115078,
+            "median_salary": 90647,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "United States",
+            "job_title": "Entry Level Python Developer",
+            "publisher_name": "ZipRecruiter",
+            "publisher_link": "https://www.ziprecruiter.com/Salaries/Entry-Level-Python-Developer-Salary",
+            "min_salary": 31000,
+            "max_salary": 88000,
+            "median_salary": 65416,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "United States",
+            "job_title": "Junior Python Developer",
+            "publisher_name": "Glassdoor",
+            "publisher_link": "https://www.glassdoor.com/Salaries/junior-python-developer-salary-SRCH_KO0,23.htm",
+            "min_salary": 47780,
+            "max_salary": 111188,
+            "median_salary": 72887,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "status": "OK",
+    "request_id": "e8264673-ffc6-43f1-8599-c342a5300062",
+    "data": [
+        {
+            "location": "United States",
+            "job_title": "Entry Level Data Scientist",
+            "publisher_name": "Glassdoor",
+            "publisher_link": "https://www.glassdoor.com/Salary/IBM-Entry-Level-Data-Scientist-Salaries-E354_D_KO4,30.htm",
+            "min_salary": 89742,
+            "max_salary": 143738,
+            "median_salary": 113575,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "United States",
+            "job_title": "Entry Level Data Scientist",
+            "publisher_name": "Salary.com",
+            "publisher_link": "https://www.salary.com/research/salary/position/entry-level-data-scientist-salary",
+            "min_salary": 70496,
+            "max_salary": 135930,
+            "median_salary": 92872,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "United States",
+            "job_title": "Entry Level DATA Scientist",
+            "publisher_name": "ZipRecruiter",
+            "publisher_link": "https://www.ziprecruiter.com/Salaries/Entry-Level-DATA-Scientist-Salary",
+            "min_salary": 55000,
+            "max_salary": 81500,
+            "median_salary": 65561,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        }
+    ]
+}
