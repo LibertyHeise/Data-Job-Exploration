@@ -1,6 +1,6 @@
 {
     "status": "OK",
-    "request_id": "2c73684f-f362-4b8d-97b8-c1da159ca97e",
+    "request_id": "05f2ea11-15db-41ac-8b6e-d6ace25e47ce",
     "data": [
         {
             "location": "United States",
@@ -29,9 +29,9 @@
             "job_title": "Junior Python Developer",
             "publisher_name": "Glassdoor",
             "publisher_link": "https://www.glassdoor.com/Salaries/junior-python-developer-salary-SRCH_KO0,23.htm",
-            "min_salary": 47780,
-            "max_salary": 111188,
-            "median_salary": 72887,
+            "min_salary": 47767,
+            "max_salary": 111162,
+            "median_salary": 72869,
             "salary_period": "YEAR",
             "salary_currency": "USD"
         }

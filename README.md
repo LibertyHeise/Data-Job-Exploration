@@ -37,6 +37,9 @@ A logic.js file was created with specific code to load the map and the markers. 
 
 ## Results
 
+Using the data rendered, we were then able to take a deeper look into the following specifics:
+
+1.  
 
 
 ## Where to Next
