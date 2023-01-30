@@ -1,7 +1,7 @@
 ## data_jobs_project_3
 
 ## Collaborators
-Jeremy Tallant, Liberty Heise, Kaylie Aguilera, Mychele Larson, Eric Martinez
+Jeremy Tallant, Liberty Heise, Kayli Aguilera, Mychele Larson, Eric Martinez
 
 ## Description
 The goal of our website is to allow students of certification programs to query and review specific entry-level job information such as location, company, job description in order to do specific searches for potential jobs.  The website uses up-to-date information which then creates a map allowing the user to interact and search with ease.  The target jobs are all entry-level, so the user doesn't have to be overwhelmed with options that are outside their skill level.  The hope of this website is to create a dynamic, interactive informational which allows new graduates to get excited and become knowledgable about their career opportunities.
