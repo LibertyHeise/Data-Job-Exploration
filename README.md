@@ -26,6 +26,6 @@ The website uses API data from Rapid API regarding the United States Job Market,
 
 Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and other columns that we deamed unuseful for the website.  
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/libertyheise/Desktop/Homework/data_jobs_project_3/data_jobs_project_3/images/Screenshot%202023-01-30%20at%2010.55.36%20AM.png?version%3D1675097879368)
+![](data_jobs_project_3/images/Screenshot%202023-01-30%20at%2010.55.36%20AM.png?version%3D1675097879368)
 
 The data was then queried for: entry level data scientist, data analyst, full stack developer and Python developer.  Once these were returned, the tables were then merged into one file in order to appy this information to our map.  The data was then imported into MongoDB. 
