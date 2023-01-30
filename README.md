@@ -40,7 +40,8 @@ A logic.js file was created with specific code to load the map and the markers. 
 
 
 ## Where to Next
-Our hope in creating this data website is to insure recent graduates of a certification program are able to locate and work towards entry level jobs in which they are qualified and also to present what specific areas of skill levels are asked for so students can begin to taylor and prepare for presentation and interviews as they move forward.  
+
+Our hope in creating this data website is to ensure recent graduates of a certification program are able to locate entry level jobs in which they are qualified and also highlight specific skills aquired during the certification program.  Recent graduates or soon to be graduates are then able to prepare for resume presentation and interviews with a clear understanding of their strengths and the asks of the specific job type.  
 
 
 
