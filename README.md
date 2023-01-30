@@ -24,8 +24,23 @@ The website uses API data from Rapid API regarding the United States Job Market,
 
 ## Data Retrieval and Cleansing
 
-Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and other columns that we deamed unuseful for the website.  
+Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and other columns that we deamed unneccessary for the website.  
 
 ![data cleaning](/images/Screenshot%202023-01-30%20at%2010.55.36%20AM.png?version%3D1675097879368)
 
 The data was then queried for: entry level data scientist, data analyst, full stack developer and Python developer.  Once these were returned, the tables were then merged into one file in order to appy this information to our map.  The data was then imported into MongoDB. 
+
+## Website Creation
+
+A logic.js file was created with specific code to load the map and the markers.  These markers denoted the location, job title, job website link and other important information needed.  
+![java script for map](/images/Screenshot%202023-01-30%20at%2011.02.51%20AM.png?version%3D1675098369877)
+
+## Results
+
+
+
+## Where to Next
+Our hope in creating this data website is to insure recent graduates of a certification program are able to locate and work towards entry level jobs in which they are qualified and also to present what specific areas of skill levels are asked for so students can begin to taylor and prepare for presentation and interviews as they move forward.  
+
+
+
