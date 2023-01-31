@@ -24,7 +24,7 @@ The website uses API data from Rapid API regarding the United States Job Market,
 
 ## Data Retrieval and Cleansing
 
-Eventually, we settled on using a purchased API from Rapid API called....  the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and other columns that we deamed unneccessary for the website.  
+Eventually, we settled on using a purchased API from Rapid API called JSearch and States API the data was then written to a JSON file and then created a Pandas data frame.  The data was cleaned for nulls and other columns that we deamed unneccessary for the website.  
 
 ![data cleaning](/images/Screenshot%202023-01-30%20at%2010.55.36%20AM.png?version%3D1675097879368)
 
