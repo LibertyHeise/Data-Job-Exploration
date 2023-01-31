@@ -37,6 +37,15 @@ A logic.js file was created with specific code to load the map and the markers. 
 
 ## Results
 
+Using the data rendered, we were then able to take a deeper look into the following specifics:
+
+1.  In addition to creating a map with informational markers
+The following pages contain even more detailed information to help inform the job-seeker:
+
+* States Analysis Charts which determines the median household income for each state.  We are hopeful more can be added here to give a fuller understanding of best states to work in.
+* Jobs Analysis Charts begins with Median Salary by job, looking at the four different jobs - Data Scientist, Python Developer, Full Stack Developer and Data Analyst.  Also, the Most Popular Data Analyst Tools chart shows Excel and R being included in over 180 job descriptions.  Python, SQL and Tableau were featured in 161, 112 and 71 jobs, respectfully.
+* Next, our States Data includes deep dives into the demographics, history and novel information about each state in the union.  The job-seeker can locate multiple state data and statistics all in one table to compare and contrast.
+* The Jobs Data table includes further information on each job including the Employer, the job title, a link to the job posting, a detailed job description and location.
 
 
 ## Where to Next

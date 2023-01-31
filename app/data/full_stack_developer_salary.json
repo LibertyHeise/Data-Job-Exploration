@@ -1,37 +1,37 @@
 {
     "status": "OK",
-    "request_id": "edb03df1-5bd8-44d8-ab54-bcb8644a5a46",
+    "request_id": "aa70e2ac-6f43-49c7-95f5-deff1f7b5fd4",
     "data": [
         {
-            "location": "Maryland",
-            "job_title": "junior full stack developer",
-            "publisher_name": "Talent.com",
-            "publisher_link": "https://www.talent.com/salary?job=junior+full+stack+developer&location=maryland",
-            "min_salary": 69600,
-            "max_salary": 150500,
-            "median_salary": 95700,
-            "salary_period": "YEAR",
-            "salary_currency": "USD"
-        },
-        {
-            "location": "Virginia",
+            "location": "United States",
             "job_title": "Entry Level Full Stack Developer",
-            "publisher_name": "ZipRecruiter",
-            "publisher_link": "https://www.ziprecruiter.com/Salaries/Entry-Level-Full-Stack-Developer-Salary--in-Virginia",
-            "min_salary": 47225,
-            "max_salary": 77897,
-            "median_salary": 60536,
+            "publisher_name": "Glassdoor",
+            "publisher_link": "https://www.glassdoor.com/Salary/IBM-Entry-Level-Full-Stack-Developer-Salaries-E354_D_KO4,36.htm",
+            "min_salary": 66161,
+            "max_salary": 106789,
+            "median_salary": 84055,
             "salary_period": "YEAR",
             "salary_currency": "USD"
         },
         {
-            "location": "Pennsylvania",
-            "job_title": "Entry Level Developer",
-            "publisher_name": "Salary.com",
-            "publisher_link": "https://www.salary.com/research/salary/recruiting/entry-level-developer-salary/pa",
-            "min_salary": 55540,
-            "max_salary": 85818,
-            "median_salary": 69044,
+            "location": "United States",
+            "job_title": "Entry Level FULL Stack Software Developer",
+            "publisher_name": "ZipRecruiter",
+            "publisher_link": "https://www.ziprecruiter.com/Salaries/Entry-Level-FULL-Stack-Software-Developer-Salary",
+            "min_salary": 46000,
+            "max_salary": 136000,
+            "median_salary": 88251,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "California",
+            "job_title": "full stack developer",
+            "publisher_name": "Talent.com",
+            "publisher_link": "https://www.talent.com/salary?job=full+stack+developer&location=california",
+            "min_salary": 85000,
+            "max_salary": 167536.5,
+            "median_salary": 126750,
             "salary_period": "YEAR",
             "salary_currency": "USD"
         }
